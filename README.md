@@ -38,4 +38,4 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Deployed URL: 
+## Deployed URL: https://vast-wildwood-46490.herokuapp.com/
